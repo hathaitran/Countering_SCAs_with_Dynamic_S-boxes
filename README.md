@@ -9,4 +9,7 @@ This repository provides download links for obtaining associated trace files rel
 
 ## Side-channel analysis datasets.
 In the academic community, the most used datasets in deep learning-based SCA are ASCAD trace sets from ANSSI (France) github repository. The authors of ASCAD repository delivered source code to generate .h5 datasets according to their specific format.
-Therefore, we provide our measurements in .h5 datasets with their download links.
+Therefore, we provide our measurements in .h5 datasets with their download links. Each file composed of two datasets within two groups: metadata and traces
+1. The traces dataset contains the raw power consumption. Each sample is an array of signed 16-bit integers. 
+2. The members of the compound dataset metadata are plaintext, ciphertext, and key which all are arrays of 16 unsigned 8-bit integers.
++ CS-0 dataset: https://drive.google.com/file/d/1sHt7EzNPwA830Bc_3FbTX3rhf8ivyc8d/view?usp=sharing
