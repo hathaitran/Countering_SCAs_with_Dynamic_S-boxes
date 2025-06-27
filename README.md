@@ -13,8 +13,11 @@ Therefore, we provide our measurements in .h5 datasets with their download links
 1. The traces dataset contains the raw power consumption. Each sample is an array of signed 16-bit integers. 
 2. The members of the compound dataset metadata are plaintext, ciphertext, and key which all are arrays of 16 unsigned 8-bit integers.
 
-| Dataset    | No. traces     | Size        | Link                                                                                 |
-| :--------: | :------------: | :---------: | :----------------------------------------------------------------------------------: |
-| CS-0       | 20k            | 46.7 MB     | https://drive.google.com/file/d/1sHt7EzNPwA830Bc_3FbTX3rhf8ivyc8d/view?usp=sharing   |
-| CS-1       | 60k            | 140.1 MB    | https://drive.google.com/file/d/1S1dWd1xrbIfVksPkZdzl0PfFnDeFpb38/view?usp=sharing   |
-| CS-2       | 3M             | 6.84 GB     | https://drive.google.com/file/d/1ubNf9qjSfd7QlXanqT49oT6Tp7iQaTQO/view?usp=sharing   |
+| Dataset    | No. traces     | Size        | Link                                                                                |
+| :--------: | :------------: | ---------:  | :---------------------------------------------------------------------------------  |
+| CS-0       | 20k            | 46.7 MB     | https://drive.google.com/file/d/1sHt7EzNPwA830Bc_3FbTX3rhf8ivyc8d/view?usp=sharing  |
+| CS-1       | 60k            | 140.1 MB    | https://drive.google.com/file/d/1S1dWd1xrbIfVksPkZdzl0PfFnDeFpb38/view?usp=sharing  |
+| CS-2       | 3M             | 6.8 GB      | https://drive.google.com/file/d/1ubNf9qjSfd7QlXanqT49oT6Tp7iQaTQO/view?usp=sharing  |
+| CS-3       | 6M             | 44.9 GB     | https://drive.google.com/file/d/1IN7OeM2DjtBQ5m6RAutS_yw7ZhQcX4O9/view?usp=sharing  |
+
+
