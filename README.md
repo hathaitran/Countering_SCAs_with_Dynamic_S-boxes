@@ -12,9 +12,6 @@ In the academic community, the most used datasets in deep learning-based SCA are
 Therefore, we provide our measurements in .h5 datasets with their download links. Each file composed of two datasets within two groups: metadata and traces
 1. The traces dataset contains the raw power consumption. Each sample is an array of signed 16-bit integers. 
 2. The members of the compound dataset metadata are plaintext, ciphertext, and key which all are arrays of 16 unsigned 8-bit integers.
-+ CS-0 dataset (20k traces, appro. 46.7 MB): https://drive.google.com/file/d/1sHt7EzNPwA830Bc_3FbTX3rhf8ivyc8d/view?usp=sharing
-+ CS-1 dataset (60k traces, appro. 140.1 MB): https://drive.google.com/file/d/1S1dWd1xrbIfVksPkZdzl0PfFnDeFpb38/view?usp=sharing
-+ CS-2 dataset (3M traces, appro. 6.84 GB):
 
 | Dataset    | No. traces     | Size        | Link                                                                                 |
 | :--------: | :------------: | :---------: | :----------------------------------------------------------------------------------: |
